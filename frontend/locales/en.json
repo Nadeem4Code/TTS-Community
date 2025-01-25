@@ -1,0 +1,22 @@
+{
+  "home": {
+    "title": "TTS Community",
+    "home-tab": "Homes",
+    "settings": "Settings",
+    "signup": "Sign Up",
+    "questions":"Unanswered Questions"
+  },
+  "auth": {
+    "sign-up-title": "Sign Up",
+    "sign-in-title": "Sign In",
+    "first-name": "First Name",
+    "lastName": "Last Name",
+    "email": "email",
+    "password": "password",
+    "submit": "submit",
+    "already-have-an-account": "Already have an Account ?",
+    "don-not-have-account": "Don't have any account ?",
+    "signIn": "Sign In",
+    "forgot-password": "Forgot Password ?"
+  }
+}
